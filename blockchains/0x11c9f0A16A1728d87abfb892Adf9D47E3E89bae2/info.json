@@ -1,0 +1,11 @@
+ {
+ 	"name": "PandaDAO Finance Token",
+    "website": "https://pandadao.finance",
+    "description": "PDD is a crypto charity fund token.",
+    "explorer": "https://bscscan.com/token/0x11c9f0a16a1728d87abfb892adf9d47e3e89bae2",
+    "type": "BEP20",
+    "symbol": "PDD",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x11c9f0A16A1728d87abfb892Adf9D47E3E89bae2"
+}
